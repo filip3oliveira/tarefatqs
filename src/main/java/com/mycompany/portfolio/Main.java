@@ -10,6 +10,15 @@ package com.mycompany.portfolio;
  *
  * @author Lipe
  */
-public interface StockMarket {
-public Double getPrice(String stockName);    
+public class Main {
+    
+    public void main (String [] args){
+        
+        System.out.println ("Test");
+        
+        
+        
+        
+    }
+    
 }
