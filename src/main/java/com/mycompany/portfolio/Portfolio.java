@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Portfolio {
 
-private String name;
+private String name = "";
 
 
 private List<Stock> stocks = new ArrayList<Stock>();
